@@ -1,0 +1,13 @@
+C:\Users\Sandeep\Desktop\CSharp\RegexPatternMakingDemo\RegexPatternMakingDemo\bin\Debug\netcoreapp3.1\RegexPatternMakingDemo.exe
+C:\Users\Sandeep\Desktop\CSharp\RegexPatternMakingDemo\RegexPatternMakingDemo\bin\Debug\netcoreapp3.1\RegexPatternMakingDemo.deps.json
+C:\Users\Sandeep\Desktop\CSharp\RegexPatternMakingDemo\RegexPatternMakingDemo\bin\Debug\netcoreapp3.1\RegexPatternMakingDemo.runtimeconfig.json
+C:\Users\Sandeep\Desktop\CSharp\RegexPatternMakingDemo\RegexPatternMakingDemo\bin\Debug\netcoreapp3.1\RegexPatternMakingDemo.runtimeconfig.dev.json
+C:\Users\Sandeep\Desktop\CSharp\RegexPatternMakingDemo\RegexPatternMakingDemo\bin\Debug\netcoreapp3.1\RegexPatternMakingDemo.dll
+C:\Users\Sandeep\Desktop\CSharp\RegexPatternMakingDemo\RegexPatternMakingDemo\bin\Debug\netcoreapp3.1\RegexPatternMakingDemo.pdb
+C:\Users\Sandeep\Desktop\CSharp\RegexPatternMakingDemo\RegexPatternMakingDemo\obj\Debug\netcoreapp3.1\RegexPatternMakingDemo.csproj.AssemblyReference.cache
+C:\Users\Sandeep\Desktop\CSharp\RegexPatternMakingDemo\RegexPatternMakingDemo\obj\Debug\netcoreapp3.1\RegexPatternMakingDemo.AssemblyInfoInputs.cache
+C:\Users\Sandeep\Desktop\CSharp\RegexPatternMakingDemo\RegexPatternMakingDemo\obj\Debug\netcoreapp3.1\RegexPatternMakingDemo.AssemblyInfo.cs
+C:\Users\Sandeep\Desktop\CSharp\RegexPatternMakingDemo\RegexPatternMakingDemo\obj\Debug\netcoreapp3.1\RegexPatternMakingDemo.csproj.CoreCompileInputs.cache
+C:\Users\Sandeep\Desktop\CSharp\RegexPatternMakingDemo\RegexPatternMakingDemo\obj\Debug\netcoreapp3.1\RegexPatternMakingDemo.dll
+C:\Users\Sandeep\Desktop\CSharp\RegexPatternMakingDemo\RegexPatternMakingDemo\obj\Debug\netcoreapp3.1\RegexPatternMakingDemo.pdb
+C:\Users\Sandeep\Desktop\CSharp\RegexPatternMakingDemo\RegexPatternMakingDemo\obj\Debug\netcoreapp3.1\RegexPatternMakingDemo.genruntimeconfig.cache
